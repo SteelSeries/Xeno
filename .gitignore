@@ -30,3 +30,10 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+**/gcc/**
+!**gcc/Makefile
+
+**/iar_v8.2/**
+!**iar_v8.2/Xeno_96.icf
+!**iar_v8.2/Xeno_96.eww
+!**iar_v8.2/Xeno_96.ewp
