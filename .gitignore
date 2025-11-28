@@ -37,3 +37,11 @@ packages/
 !**iar_v8.2/Xeno_96.icf
 !**iar_v8.2/Xeno_96.eww
 !**iar_v8.2/Xeno_96.ewp
+
+**/STM32/App/EWARM/**
+!**/STM32/App/EWARM/Xeno_2.eww
+!**/STM32/App/EWARM/Xeno_2.ewp
+!**/STM32/App/EWARM/stm32f723xx_flash.icf
+
+
+
