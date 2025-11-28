@@ -1,0 +1,47 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+**/gcc/**
+!**gcc/Makefile
+
+**/iar_v8.2/**
+!**iar_v8.2/Xeno_96.icf
+!**iar_v8.2/Xeno_96.eww
+!**iar_v8.2/Xeno_96.ewp
+
+**/STM32/App/EWARM/**
+!**/STM32/App/EWARM/Xeno_2.eww
+!**/STM32/App/EWARM/Xeno_2.ewp
+!**/STM32/App/EWARM/stm32f723xx_flash.icf
+
+
+
